@@ -1,0 +1,33 @@
+
+.Fondo {
+  background-image: url('../images/banner.jpg');
+}
+
+.Titulo_Section1 {
+	color: white;
+	font-size: 54px;
+	margin-top: 200px;
+}
+
+.textos_blancos1 {
+	color: white;
+	font-size: 24px;
+}
+
+.section1 {
+	height: 700px;
+}
+
+.color_links {
+	color: #555F66;
+}
+
+.section2 {
+	height: 600px;
+}
+
+.section3 {
+	background-color: #192024;
+	color: white;
+}
+
